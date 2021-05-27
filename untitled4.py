@@ -12,7 +12,7 @@ import pandas as pd
 '''
 Data Collection
 '''
-data=pd.read_csv('/content/USA_Housing.csv')
+data=pd.read_csv('USA_Housing.csv')
 
 '''
 Basic analysis of dataset
