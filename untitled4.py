@@ -110,7 +110,7 @@ linreg_accuracy=linreg.score(x_test,y_test)
 
 #accuracy is 92.29%
 
-linreg_accuracy
+print(linreg_accuracy)
 
 '''
 Saving the model for reusing
