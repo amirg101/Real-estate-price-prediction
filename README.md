@@ -26,9 +26,15 @@ The data contains the following columns:
 
 This program neatly describes with step by step approach of machine learning, detailed with comments and docstrings. It contains the following steps:
 Data collection
+
 Data analysis (interpretation, visualization, EDA)
+
 Data cleaning 
+
 Data splitting (array creation, train and test sets)
+
 Algorithm selection
+
 Training and testing
-Conclude with your findings and observations. 
+
+Conclusion with findings and observations. 
